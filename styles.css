@@ -1,4 +1,5 @@
 p {
-  width: 50px;
+  width: 50%;
   background-color: green;
+  margin: 0 auto;
 }
