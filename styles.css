@@ -5,6 +5,7 @@ html {
 body {
   background-color: blue;
   width: 70%;
+  margin: 0 auto;
 }
 
 p {
@@ -12,4 +13,5 @@ p {
   background-color: green;
   text-align: center;
   padding: 50px;
+  margin: 0 auto;
 }
