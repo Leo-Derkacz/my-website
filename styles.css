@@ -1,5 +1,6 @@
 p {
   width: 50%;
   background-color: green;
-  margin: 0 auto;
+  text-align: center;
+  padding: 50px;
 }
