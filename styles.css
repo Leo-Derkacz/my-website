@@ -15,4 +15,14 @@ p {
   text-align: center;
   padding: 50px;
   margin: 0 auto;
+  color:white;
+}
+
+ul {
+  width: 50%;
+  background-color: green;
+  text-align: center;
+  padding: 50px;
+  margin: 0 auto;
+  color: white;
 }
