@@ -9,7 +9,7 @@ body {
   padding: 50px;
 }
 
-p {
+.paracelsus {
   width: 50%;
   background-color: green;
   text-align: center;
@@ -22,9 +22,9 @@ p {
   font-weight: 700;
 }
 
-ul {
+.plague-info {
   width: 50%;
-  background-color: green;
+  background-color: red;
   text-align: center;
   padding: 50px;
   margin: 0 auto;
