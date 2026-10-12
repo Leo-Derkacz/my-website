@@ -30,3 +30,11 @@ body {
   margin: 0 auto;
   color: white;
 }
+
+p {
+  font-size: 2rem;
+}
+
+ul {
+  font-size: 2rem;
+}
