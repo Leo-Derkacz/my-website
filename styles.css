@@ -9,7 +9,7 @@ body {
   padding: 50px;
 }
 
-.paracelsus {
+.paracelsus-card {
   width: 50%;
   background-color: green;
   text-align: center;
@@ -24,7 +24,7 @@ body {
   font-weight: 700;
 }
 
-.plague-info {
+.plague-card {
   width: 50%;
   background-color: red;
   text-align: center;
@@ -45,4 +45,15 @@ ul {
 
 video {
   float: left;
+}
+
+.bernardino-card {
+  width: 50%;
+  background-color: yellow;
+  text-align: center;
+  padding: 75px;
+  margin: 0 auto;
+  color: white;
+  border: 20px groove white;
+  border-radius: 20px;
 }
