@@ -17,6 +17,7 @@ body {
   margin: 0 auto;
   color:white;
   border: 20px groove white;
+  border-radius: 20px;
 }
 
 .bold {
@@ -31,6 +32,7 @@ body {
   margin: 0 auto;
   color: white;
   border: 20px groove black;
+  border-radius: 20px;
 }
 
 p {
