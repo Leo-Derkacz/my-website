@@ -18,6 +18,10 @@ p {
   color:white;
 }
 
+.bold {
+  font-weight: 700;
+}
+
 ul {
   width: 50%;
   background-color: green;
