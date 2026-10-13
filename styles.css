@@ -49,10 +49,11 @@ video {
 
 .bernardino-card {
   width: 50%;
-  background-color: yellow;
+  background-color: white;
   text-align: center;
   padding: 75px;
   margin: 0 auto;
-  border: 20px groove white;
+  border: 20px groove green;
   border-radius: 20px;
+  color: red;
 }
