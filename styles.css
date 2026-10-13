@@ -50,7 +50,7 @@ video {
 
 .bernardino-card {
   width: 50%;
-  background-image: linear-gradient(to right, #008C45 0%, #F4F5F0 33%, #F4F5F0 33%, #CD212A 67%, #CD212A 67%, #CD212A 100%); 
+  background-image: linear-gradient(to right, #008C45 0%, #F4F5F0 33%, #F4F5F0 33%, #F4F5F0 67%, #CD212A 67%, #CD212A 100%); 
   text-align: center;
   padding: 75px;
   margin: 0 auto;
