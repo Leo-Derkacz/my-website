@@ -62,3 +62,10 @@ video {
 h1 {
   background-color: #C7839A;
 }
+
+.title {
+  font-size: 2em;
+  width: 30%;
+  margin: 0 auto;
+  text-align: center;
+}
