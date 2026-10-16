@@ -60,7 +60,7 @@ ul {
   text-align: center;
   padding: 75px;
   margin: 0 auto;
-  border: 20px groove green;
+  border: 20px groove black;
   border-radius: 20px;
 }
 
@@ -74,6 +74,17 @@ h1 {
   width: 70%;
   margin: 0 auto;
   text-align: center;
+}
+
+graunt-card {
+  width: 50%;
+  background-color: purple;
+  text-align: center;
+  padding: 75px;
+  margin: 0 auto;
+  color: white;
+  border: 20px groove black;
+  border-radius: 20px;
 }
 
 .biblio-game-card {
