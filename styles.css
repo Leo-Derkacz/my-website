@@ -49,10 +49,6 @@ ul {
   text-align: left;
 }
 
-video {
-  float: left;
-}
-
 .bernardino-card {
   width: 50%;
   background-image: linear-gradient(to right, #008c45, #f4f5f0, #cd212a);
@@ -61,7 +57,6 @@ video {
   margin: 0 auto;
   border: 20px groove green;
   border-radius: 20px;
-  color: red;
 }
 
 h1 {
@@ -74,4 +69,15 @@ h1 {
   width: 70%;
   margin: 0 auto;
   text-align: center;
+}
+
+.biblio/game-card {
+  width: 50%;
+  background-color: orange;
+  text-align: center;
+  padding: 75px;
+  margin: 0 auto;
+  color: white;
+  border: 20px groove black;
+  border-radius: 20px;
 }
