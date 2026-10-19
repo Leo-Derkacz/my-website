@@ -91,6 +91,17 @@ h1 {
   border-radius: 20px;
 }
 
+.rennaisance-card {
+  width: 50%;
+  background-color: blue;
+  text-align: center;
+  padding: 75px;
+  margin: 0 auto;
+  color: white;
+  border: 20px groove black;
+  border-radius: 20px;
+}
+
 .biblio-game-card {
   width: 50%;
   background-color: orange;
